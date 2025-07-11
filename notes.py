@@ -61,7 +61,7 @@ notes = load_notes()
 
 # UI
 root = tk.Tk()
-root.title("Gnote-like Notes App")
+root.title("Notes App")
 root.geometry("700x400")
 
 frame_left = tk.Frame(root)
